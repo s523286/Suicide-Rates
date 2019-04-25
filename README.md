@@ -1,6 +1,4 @@
-*** Overview of the project and links to other markdowns- introduction to the project and initial goals. Narrative conclusion about what you learned***
-
-# Suicide Predictions
+# Suicide Predictions -- INCOMPLETE
 ## Overview
 - This project will try to explain the number of suicides using predictors such as age, population, and gender.
 
